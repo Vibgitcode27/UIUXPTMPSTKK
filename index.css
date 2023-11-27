@@ -9,6 +9,10 @@
   justify-content: flex-start;
   background-color: var(--dl-color-gray-white);
 }
+.feature-card-feature-card:hover
+{
+  background-color: rgb(217, 217, 217);
+}
 .feature-card-icon {
   fill: var(--dl-color-primary1-blue80);
   width: 2rem;
@@ -32,7 +36,10 @@
   color: var(--dl-color-gray-800);
   line-height: 1.6;
 }
-
+.hoverOn:hover
+  {
+    background-color: aqua;
+  }
 
 @media(max-width: 1600px) {
   .feature-card-root-class-name {
@@ -93,6 +100,7 @@
   font-family: "Lato";
   font-weight: bold;
   text-transform: uppercase;
+  margin: auto;
 }
 .home-container01 {
   flex: 0 0 auto;
