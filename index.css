@@ -14,7 +14,7 @@
   background-color: rgb(217, 217, 217);
 }
 .feature-card-icon {
-  fill: var(--dl-color-primary1-blue80);
+  fill: rgb(255, 140, 0);
   width: 2rem;
   height: 2rem;
   flex-shrink: 0;
@@ -79,7 +79,7 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-oneandhalfunits);
   justify-content: center;
-  background-color: var(--dl-color-primary1-blue80);
+  background-color: rgb(229, 66, 7);
 }
 .home-navbar-interactive {
   width: 90%;
@@ -244,7 +244,7 @@
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  background-color: var(--dl-color-primary1-blue80);
+  background-color: rgb(229, 66, 7);
 }
 .home-hero1 {
   width: 100%;
@@ -324,7 +324,7 @@
   justify-content: flex-start;
 }
 .home-text {
-  color: var(--dl-color-primary1-blue80);
+  color: rgb(229, 66, 7);
   text-align: left;
   font-family: "Raleway";
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -378,7 +378,7 @@
   justify-content: flex-start;
 }
 .home-text05 {
-  color: var(--dl-color-primary1-blue80);
+  color: rgb(229, 66, 7);
   font-family: "Raleway";
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
@@ -439,7 +439,7 @@
   justify-content: flex-start;
 }
 .home-text06 {
-  color: var(--dl-color-primary1-blue80);
+  color: rgb(229, 66, 7);
   text-align: left;
   font-family: "Raleway";
   margin-bottom: var(--dl-space-space-oneandhalfunits);
